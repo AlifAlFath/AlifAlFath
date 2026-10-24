@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="112" viewBox="0 0 720 112" role="img" aria-label="GitHub @alifalfath, Email alifalfathhh@gmail.com, Instagram @lipoowttpd">
+  <title>GitHub @alifalfath · alifalfathhh@gmail.com · Instagram @lipoowttpd</title>
+  <defs>
+    <clipPath id="box"><rect x="1" y="1" width="718" height="110" rx="26"/></clipPath>
+    <linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="720" y2="112"><stop offset="0" stop-color="#171a20"/><stop offset="1" stop-color="#101216"/></linearGradient>
+    <radialGradient id="g1" gradientUnits="userSpaceOnUse" cx="130" cy="14" r="230"><stop offset="0" stop-color="#9ca3af" stop-opacity=".20"/><stop offset="1" stop-color="#9ca3af" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" gradientUnits="userSpaceOnUse" cx="600" cy="104" r="250"><stop offset="0" stop-color="#6b7280" stop-opacity=".26"/><stop offset="1" stop-color="#6b7280" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g3" gradientUnits="userSpaceOnUse" cx="360" cy="112" r="220"><stop offset="0" stop-color="#d1d5db" stop-opacity=".08"/><stop offset="1" stop-color="#d1d5db" stop-opacity="0"/></radialGradient>
+    <linearGradient id="frame" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="720" y2="0"><stop offset="0" stop-color="#6b7280"/><stop offset=".5" stop-color="#9ca3af"/><stop offset="1" stop-color="#6b7280"/></linearGradient>
+    <linearGradient id="pill0" gradientUnits="userSpaceOnUse" x1="20" y1="30" x2="220" y2="82"><stop offset="0" stop-color="#e5e7eb"/><stop offset=".5" stop-color="#6b7280"/><stop offset="1" stop-color="#d1d5db"/></linearGradient>
+    <linearGradient id="pill1" gradientUnits="userSpaceOnUse" x1="260" y1="30" x2="460" y2="82"><stop offset="0" stop-color="#e5e7eb"/><stop offset=".5" stop-color="#6b7280"/><stop offset="1" stop-color="#d1d5db"/></linearGradient>
+    <linearGradient id="pill2" gradientUnits="userSpaceOnUse" x1="500" y1="30" x2="700" y2="82"><stop offset="0" stop-color="#e5e7eb"/><stop offset=".5" stop-color="#6b7280"/><stop offset="1" stop-color="#d1d5db"/></linearGradient>
+  </defs>
+  <g clip-path="url(#box)">
+    <rect width="720" height="112" fill="url(#bg)"/>
+    <rect width="720" height="112" fill="url(#g1)"/>
+    <rect width="720" height="112" fill="url(#g2)"/>
+    <rect width="720" height="112" fill="url(#g3)"/>
+  </g>
+  <rect x="1" y="1" width="718" height="110" rx="26" fill="none" stroke="url(#frame)" stroke-width="1.5"/>
+  <rect x="12" y="12" width="696" height="88" rx="18" fill="none" stroke="#4b5563" stroke-opacity=".6" stroke-width="1"/>
+  <rect x="20" y="30" width="200" height="52" rx="26" fill="#0b0c0f" stroke="url(#pill0)" stroke-width="1.5"/>
+  <circle cx="47" cy="56" r="16" fill="#2b2f36"/>
+  <g transform="translate(39 48)"><path fill="#e5e7eb" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></g>
+  <text x="72" y="52" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing=".6" fill="#9ca3af">GitHub</text>
+  <text x="72" y="69" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#f3f4f6" textLength="58.5" lengthAdjust="spacingAndGlyphs">@alifalfath</text>
+  <rect x="260" y="30" width="200" height="52" rx="26" fill="#0b0c0f" stroke="url(#pill1)" stroke-width="1.5"/>
+  <circle cx="287" cy="56" r="16" fill="#2b2f36"/>
+  <g transform="translate(279 48)"><g fill="none" stroke="#e5e7eb" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="2.5" width="14" height="11" rx="2"/><path d="M1.5 4l6.5 5 6.5-5"/></g></g>
+  <text x="312" y="52" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing=".6" fill="#9ca3af">Email</text>
+  <text x="312" y="69" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#f3f4f6" textLength="129.4" lengthAdjust="spacingAndGlyphs">alifalfathhh@gmail.com</text>
+  <rect x="500" y="30" width="200" height="52" rx="26" fill="#0b0c0f" stroke="url(#pill2)" stroke-width="1.5"/>
+  <circle cx="527" cy="56" r="16" fill="#2b2f36"/>
+  <g transform="translate(519 48)"><g fill="none" stroke="#e5e7eb" stroke-width="1.4"><rect x="1" y="1" width="14" height="14" rx="4"/><circle cx="8" cy="8" r="3.2"/></g><circle cx="12" cy="4" r="1" fill="#e5e7eb"/></g>
+  <text x="552" y="52" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing=".6" fill="#9ca3af">Instagram</text>
+  <text x="552" y="69" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#f3f4f6" textLength="69.3" lengthAdjust="spacingAndGlyphs">@lipoowttpd</text>
+</svg>
