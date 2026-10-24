@@ -24,10 +24,22 @@
 
 ## Visit
 
+## Visit
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=alifalfath&theme=gray&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F343578750%3Fu%3D3d940ba12109e4e1845316be669c0df405295425%26v%3D4" alt="alifalfath social visual" />
+  <a href="https://github.com/alifalfath">
+    <img src="https://www.gitskins.com/api/section/social?username=alifalfath&theme=gray&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F343578750%3Fu%3D3d940ba12109e4e1845316be669c0df405295425%26v%3D4" alt="alifalfath social visual" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="mailto:alifalfathhh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alifalfathhh%40gmail.com-4b5563?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/lipoowttpd/">
+    <img src="https://img.shields.io/badge/Instagram-%40lipoowttpd-4b5563?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
