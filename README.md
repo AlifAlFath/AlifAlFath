@@ -30,6 +30,4 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-<p align="center"><a href="https://github.com/alifalfath">GitHub</a></p>
-
 <p align="center"><sub>Muh Alif Al Fath Ananta Surya · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
