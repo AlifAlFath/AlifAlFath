@@ -24,8 +24,6 @@
 
 ## Visit
 
-## Visit
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=alifalfath&theme=gray&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F343578750%3Fu%3D3d940ba12109e4e1845316be669c0df405295425%26v%3D4" alt="alifalfath social visual" />
 </p>
