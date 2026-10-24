@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=alifalfath&theme=gray&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F343578750%3Fu%3D3d940ba12109e4e1845316be669c0df405295425%26v%3D4" alt="alifalfath hero visual" />
 </p>
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 
 ## The city I built this year
 
