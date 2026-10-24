@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1182" height="172" viewBox="0 0 1182 172" role="img" aria-label="GitHub @alifalfath, Email alifalfathhh@gmail.com, Instagram @lipoowttpd">
+<svg xmlns="http://www.w3.org/2000/svg" width="394" height="172" viewBox="0 0 394 172" role="img" aria-label="GitHub @alifalfath, Email alifalfathhh@gmail.com, Instagram @lipoowttpd">
   <title>GitHub @alifalfath · alifalfathhh@gmail.com · Instagram @lipoowttpd</title>
+  <view id="slice1" viewBox="0 0 394 172"/>
+  <view id="slice2" viewBox="394 0 394 172"/>
+  <view id="slice3" viewBox="788 0 394 172"/>
   <defs>
     <clipPath id="box"><rect x="1" y="1" width="1180" height="170" rx="36"/></clipPath>
     <linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1182" y2="0"><stop offset="0" stop-color="#121821"/><stop offset=".6" stop-color="#12171e"/><stop offset="1" stop-color="#111b1d"/></linearGradient>
