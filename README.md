@@ -25,7 +25,7 @@
 ## Visit
 
 <p align="center">
-<a href="https://github.com/alifalfath"><img src="visit.svg#slice1" width="25%" alt="GitHub @alifalfath" /></a><a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU/"><img src="visit.svg#slice2" width="25%" alt="LinkedIn Muh Alif Al Fath Ananta Surya" /></a><a href="mailto:alifalfathhh@gmail.com"><img src="visit.svg#slice3" width="25%" alt="Email alifalfathhh@gmail.com" /></a><a href="https://www.instagram.com/lipoowttpd/"><img src="visit.svg#slice4" width="25%" alt="Instagram @lipoowttpd" /></a>
+<a href="https://github.com/alifalfath"><img src="visit.svg?v=2#slice1" width="21.25%" alt="GitHub @alifalfath" /></a><a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU/"><img src="visit.svg?v=2#slice2" width="21.25%" alt="LinkedIn Muh Alif Al Fath Ananta Surya" /></a><a href="mailto:alifalfathhh@gmail.com"><img src="visit.svg?v=2#slice3" width="21.25%" alt="Email alifalfathhh@gmail.com" /></a><a href="https://www.instagram.com/lipoowttpd/"><img src="visit.svg?v=2#slice4" width="21.25%" alt="Instagram @lipoowttpd" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
